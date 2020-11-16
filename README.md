@@ -7,7 +7,7 @@ I am Ritesh Rathod. Basically I love to work on various projects related to tech
 - 🔭 I’m currently trying to work on **OPEN SOURCE PROJECTS**
 - 📫 You can Contact me on this mail **rnrathod16@gmail.com**
 
-
+<a href="www.google.com" target="_blank">google</a>
 
 <!--
 **rnrathod16/rnrathod16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
