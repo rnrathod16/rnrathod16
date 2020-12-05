@@ -1,7 +1,7 @@
-## Hi there 👋
-:smile: **Welcome to My Profile**
+# Hi there 👋
+## :smile: **Welcome to My Profile**
 
-I am **Ritesh Rathod** . Basically I love to work on various projects related to technologies. Currently I am commited with Web Development and I love to create Websites and apart from that I contribute to Open Source.
+I am **Ritesh Rathod** :wink:. Basically I love to work on various projects related to technologies. Currently I am commited with Web Development and I love to create Websites and apart from that I contribute to Open Source.
 - 🌱 I’m currently learning **WEB DEVELOPMENT**
 - 🔭 I’m currently trying to work on **OPEN SOURCE PROJECTS**
 - 📫 You can Contact me on this mail **rnrathod16@gmail.com**
