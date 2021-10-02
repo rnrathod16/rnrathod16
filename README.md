@@ -20,6 +20,7 @@ I am **Ritesh Rathod** :wink:. Basically I love to work on various projects rela
 
 > Do Visit My Profile
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rnrathod16&theme=react&show_icons=true)
 <!--
 **rnrathod16/rnrathod16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
