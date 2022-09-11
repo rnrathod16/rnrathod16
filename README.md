@@ -1,13 +1,14 @@
 # Hi there 👋
 ## :smile: **Welcome to My Profile**
 
-I am **Ritesh Rathod** :wink:. Basically I love to work on various projects related to technologies. Currently I am commited with Web Development and I love to create Websites and apart from that I contribute to Open Source.
-- 🌱 I’m currently learning **WEB DEVELOPMENT**
-- 🔭 I’m currently trying to work on **OPEN SOURCE PROJECTS**
+I am **Ritesh Rathod** :wink:.I love to work on projects related to ***Web Technologies***. Currently I am commited with Web Development and I love to create Websites
+- 🌱 I’m currently learning **MERN** stack
+- 🔭 I’m looking to collaborate on a **Web Development Project**
 - 📫 You can Contact me on this mail **rnrathod16@gmail.com**
 
 <br>
 
+> Check out my <a href="https://rnrathod.netlify.app/" target="_blank">  ***Portfolio***</a> :fallen_leaf:
 
 :star: **Social Handel** :star:
 <br>
@@ -18,7 +19,7 @@ I am **Ritesh Rathod** :wink:. Basically I love to work on various projects rela
 
 <br>
 
-> Do Visit My Profile
+> Do Visit My Portfolio
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rnrathod16&theme=react&show_icons=true)
 <!--
