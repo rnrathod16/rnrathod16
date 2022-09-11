@@ -8,7 +8,7 @@ I am **Ritesh Rathod** :wink:.I love to work on projects related to ***Web Techn
 
 <br>
 
-> Check out my <a href="https://rnrathod.netlify.app/" target="_blank">  ***Portfolio***</a> :fallen_leaf:
+> Check out my <a href="https://rnrathod.netlify.app/" target="_blank">***Portfolio***</a> :fallen_leaf:
 
 :star: **Social Handel** :star:
 <br>
